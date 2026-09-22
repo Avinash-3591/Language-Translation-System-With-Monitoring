@@ -1,0 +1,14 @@
+transformers
+torch
+sentencepiece
+datasets
+pandas
+scikit-learn
+sacrebleu
+fastapi
+uvicorn
+mlflow==2.22.1
+evidently
+dvc
+pytest
+httpx
